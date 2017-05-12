@@ -1,0 +1,271 @@
+html {
+	margin: 0;
+	padding: 0;	
+}
+
+a {
+	color: #42a692;
+}
+
+body {
+	background-color: #e8e8e8;
+}
+
+h1 {
+	margin: 0;
+}
+
+.navbar {
+	border: 0px solid transparent;
+	background-image: none!important;
+	margin-bottom: 0px;
+}
+
+.search {
+	margin-top: 20px;
+    margin-left: 100px;
+    width: 400px!important;
+    float: left;
+}
+
+.m15 {
+	margin-top: 10px;
+}
+
+.a67 {
+	height: 67px!important;
+}
+
+.navbar ul button {
+	margin-top: 7px;
+	text-shadow: none;
+}
+
+
+.navbar ul button:hover {
+	color: #fff;
+	background: #404040;
+    border: solid 1px #4c4c4c;
+}
+  
+
+.btn-reg {
+	background: #42a692;
+    border: solid 1px #4c4c4c
+}
+
+.plomo {
+	background-color: #3e3d40;
+	-webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.475);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.475);
+    z-index: 1;
+}
+
+.black {
+    background-color: #1a171b;
+    -webkit-box-shadow: 0 4px 6px rgba(0, 0, 0, 0.275);
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.275);
+    z-index: 2;
+}
+
+.contenido {
+	margin-top: 130px;
+}
+
+.wrapper {
+	background-color: #fff;
+}
+
+#description h1, #description span {
+	padding: 10px;
+}
+
+#description img {
+	width: 100%;
+}
+
+#description p {
+	padding: 5px 0px 0px 10px;
+	font-size: 18px;
+	margin: 0 0 5px;	
+} 
+#description p:nth-child(3) {
+	padding: 10px 0px 0px 10px;
+}
+
+
+#redes .input-group span a {
+	font-size: 36px;
+}
+
+#redes .input-group span:nth-child(1) a i{
+	color: #3a579a
+}
+
+#redes .input-group span:nth-child(2) a i{
+	color:#3d96ce
+}
+
+#redes .input-group span:nth-child(3) a i{
+	color: #e83924
+}
+
+#redes .input-group span:nth-child(4) a {
+	font-size: 20px;
+}
+
+
+#redes .input-group span {
+	padding: 6px 12px; 
+	border-radius: 4px;
+	text-align: center;
+	background-color: #eee;
+	font-size: 14px; 
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.input-group {
+	width: 100%;
+}
+
+.shadow-5 {
+	webkit-box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.095);
+    box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.095);
+}
+
+#formulario {
+	margin-top: 10px;
+	background-color: #fff;
+	padding: 10px;
+	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.095);
+	border-radius: 4px;
+}
+
+#formulario i {
+	font-size: 20px; 
+	color: #42a692;
+}
+
+#formulario .fecha {
+	color: #86898e;
+	text-transform: uppercase; 
+	font-weight: bold;
+}
+
+#formulario .fecha strong {
+	color: #000
+}
+
+.hora {
+	margin-top: 8px;
+}
+
+.detalles {
+	margin-top: 10px;
+}
+
+.detalles .row:nth-child(1) {
+	margin: 0px;
+	border-top: 1px solid #d9d9d9;	
+}
+
+.detalles .row:nth-child(2) {
+	margin: 0px;
+	border-bottom: 1px solid #d9d9d9;	
+}
+
+.detalles .row:nth-child(3) {
+	margin: 0px;
+	text-align: center;
+	padding: 10px; 	
+}
+
+
+.detalles .row.row:nth-child(1) div {
+	background-color: #f2f2f2;
+}
+
+.detalles .row.row:nth-child(2) div {
+	padding: 8px 8px 8px 16px;
+}
+
+.detalles h5 {
+	margin-top: 5px;
+    margin-bottom: 5px;
+}
+
+.btn-important {
+	display: inline;
+	margin-top: 10px;
+    color: #ffffff;
+    background-color: #e83924;
+    border-color: #db2c17;
+}
+
+.btn-important:hover, .btn-important:focus, .btn-important:active, .btn-important.active, .open .dropdown-toggle.btn-important {
+    color: #ffffff;
+    background-color: #ce2916;
+    border-color: #a42111;
+}
+
+
+#ubicacion {
+	margin-top: 10px;
+	background-color: #fff;
+	padding: 10px;
+	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.095);
+	border-radius: 4px;
+}
+
+#ubicacion h1 {
+	font-size: 18px;
+	font-weight: bold;
+}
+
+#ubicacion p {
+	margin-top: 5px;
+	margin-bottom: 0px;
+}
+
+#ubicacion span {
+	color: #999999;
+	font-size: 12px;
+}
+
+#ubicacion button {
+	display: block;
+	margin: 0 auto;
+}
+
+#ubicacion img {
+	margin-top: 10px;
+	width: 100%;
+}
+
+#autor {
+	margin-top: 10px;
+	background-color: #fff;
+	padding: 5px;
+	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.095);
+	border-radius: 4px;
+}
+
+
+#autor .datos {
+	display: inline;
+}
+
+#video {
+	margin-top: 10px;
+	background-color: #fff;
+	padding: 5px;
+	box-shadow: 3px 3px 7px rgba(0, 0, 0, 0.095);
+	border-radius: 4px;
+}
+
+.footer {
+	background-color: #1a171b;
+}
+
+
